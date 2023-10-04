@@ -6,6 +6,7 @@ build/
 .idea/
 .gradle/
 gradle/
+gate-simulator/
 
 ### STS ###
 .apt_generated
